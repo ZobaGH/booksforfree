@@ -1,6 +1,22 @@
 body {
- background-color:#D0ECE7
+ background-color:#a3e4d7
 }
 .a {
  font-family: 'Trebuchet MS', sans-serif;
- font-size: 100px
+ font-size: 100px;
+ text-align: center;
+ margin: 12px;
+ font-weight: bold
+}
+p {
+ font-family: 'Verdana', sans-serif;
+ font-size: 30px
+}
+iframe {
+ border: none;
+ height: 400;
+ width: 300
+}
+div {
+ width: 300px;
+}
